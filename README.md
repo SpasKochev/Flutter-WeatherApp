@@ -1,2 +1,2 @@
 # Flutter-WeatherApp
-First Flutter app using API
+First Flutter app using OpenWeather API, implementing Lottie animations.
